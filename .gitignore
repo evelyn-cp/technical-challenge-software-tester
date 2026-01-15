@@ -1,0 +1,11 @@
+resources/test_data/
+results/
+log.html
+output.xml
+report.html
+selenium-screenshot-*.png
+*.pyc
+__pycache__/
+venv/
+env/
+.venv/
